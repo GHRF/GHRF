@@ -3,4 +3,4 @@
 In postgreSQL and python for now. 
 Maybe TypeScript later.
 
-It's mostly harmless.
+Mostly harmless.
